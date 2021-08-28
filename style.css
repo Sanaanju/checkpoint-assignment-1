@@ -1,0 +1,140 @@
+body {
+    line-height: 1.5;
+}
+.nav-bar {
+    background-color: #07164c;
+    text-align: center;
+    font-size: 24px;
+}
+a {
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    padding: 10px 15px;
+}
+h1 {
+    text-align: center;
+    font-size: 32px;
+    padding: 24px 36px;
+}
+h2 {
+    text-align: center;
+    font-size: 32px;
+    margin: 54px 0;
+}
+.box {
+    width: 180px;
+    height: 120px;
+    background-color: blue;
+    margin: 0 auto;
+    border: 24px solid pink;
+    outline: 18px solid green;
+    box-shadow: 0 0 0 45px yellow;
+    border-radius: 2px;
+}
+.marker-container {
+    text-align: center;
+    margin-top: 50px;
+}
+.circle {
+    width: 20px;
+    height: 20px;
+    background-color: blue;
+    display: inline-block;
+    border-radius: 50%;
+    margin-right: 12px;
+    vertical-align: middle;
+
+}
+.pink {
+    background-color: pink;
+}
+.green {
+    background-color: green;
+}
+.yellow {
+    background-color: yellow;
+}
+.marker {
+    margin: 0 16px;
+    display: inline-block;
+}
+hr {
+    width: 600px;
+    border-style: dashed;
+    margin: 32px auto;
+    border-color: gray;
+}
+.container {
+    width: 600px;
+    border: 1px solid black;
+    margin: 24px auto;
+    font-size: 0;
+
+}
+.smallbox {
+    width: 180px;
+    height: 120px;
+    margin: 10px;
+    background-color: skyblue;
+    display: inline-block;
+}
+.border {
+    border: 2px solid black;
+    box-sizing: border-box;
+}
+.nav-bar1 {
+    background-color: #07164c;
+    text-align: center;
+    font-size: 24px;
+}
+.container-1 {
+    margin-top: 40px;
+    text-align: center;
+
+}
+img {
+    width: 440px;
+    margin-bottom: 10px;
+    margin-top: 70px;
+}
+.childbox {
+    display: inline-block;
+    vertical-align: top;
+    width: 440px;
+    margin-left: 20px;
+    text-align: left;
+}
+.button1 {
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    background-color: #17bb3d;
+    border-radius: 90px;
+    padding: 10px 22px;
+    margin-top: 4px;
+}
+.container-2 {
+    text-align: center;
+
+}
+.childbox2 {
+    display: inline-block;
+    text-align: left;
+    width: 440px;
+    padding-right: 5px;
+}
+.childbox3 {
+    vertical-align: top;
+    padding-right: 38px;
+
+}
+.button2 {
+    display: inline-block;
+    color: #17bb3d;
+    font-weight: bolder;
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+
